@@ -2,7 +2,7 @@
 
 > Welcome to a curated showcase of high-impact projects in operations, industrial automation, production optimization, and strategic CAPEX execution—delivered across Europe in complex, fast-paced environments.
 
-With 5+ years leading multidisciplinary teams across critical industries—from manufacturing to defense—this portfolio captures the practical, result-driven transformation of complex systems into lean, scalable operations.
+With 9+ years leading multidisciplinary teams across critical industries—from manufacturing to defense—this portfolio captures the practical, result-driven transformation of complex systems into lean, scalable operations.
 
 ---
 
@@ -84,5 +84,3 @@ Projects span **Ukraine**, **Poland**, **Germany**, **Austria**, **Netherlands**
 ## 🤝 Let’s Connect
 
 📫 [LinkedIn](https://www.linkedin.com/in/nate-dudina-ucn/) · [GitHub](https://github.com/UrchinSun)
-
-> Each `.md` project file includes: scope, goals, metrics, implementation steps, visuals (if available), and measurable outcomes.
