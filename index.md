@@ -1,5 +1,3 @@
-<img src="./banner.png" alt="Natalia Dudina Banner" style="width:100%;"/>
-
 # 👩‍💻 Natalia Dudina – Project Portfolio
 
 > Welcome to a curated showcase of high-impact projects in operations, industrial automation, production optimization, and strategic CAPEX execution—delivered across Europe in complex, fast-paced environments.
