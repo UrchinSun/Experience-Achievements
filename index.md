@@ -1,74 +1,82 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png" alt="Natalia Dudina – Project Portfolio" width="100%">
-</p>
+# 👩‍💻 Natalia Dudina – Project Portfolio
 
-# 👋 Welcome to the Portfolio of Natalia Dudina
+> A curated collection of real-world, high-impact operations, production, and strategic project cases across Europe.
 
-Strategic and hands-on Project Manager with expertise in:
-- 🚀 Lean Operations & Industrial Efficiency
-- 🧠 ERP Implementation & Reporting Automation
-- 🔧 CAPEX Projects & Engineering Coordination
-- 🌍 International Supply Chain & Exhibitions
-
-With experience across **Ukraine, EU (Poland, Germany, Austria, Netherlands)** and **Turkey**, I specialize in driving full-cycle operational transformation — from the factory floor to the boardroom.
+![Project banner](./assets/banner-header.png)
 
 ---
 
-## 🗂️ Project Archive
+## 🔧 Key Domains
 
-> Explore detailed case studies from over 20 implemented projects.
+Lean | CAPEX | ERP | Industrial Automation | Strategic Procurement | Trade Shows
 
-### 🔹 Manufacturing & Engineering
-
-- [Cold End Full Automation – Verallia](projects/ksix-packing-automation-verallia.md)  
-  *CAPEX, ERP integration, labor optimization*
-
-- [Furnace Filter System – Verallia](projects/ksix-furnace-filter-system-verallia.md)  
-  *$20M ESG investment, emissions compliance*
-
-- [Yield Optimization RCA – Glass Production](projects/yield-defect-rca-hotend-coldend.md)  
-  *Defect mapping, process stabilization*
+Each project highlights a unique challenge—solved through structured processes, creative execution, and measurable results.
 
 ---
 
-### 🔹 Strategic Procurement & Defense Sector
+## 🌍 Locations
 
-- [Military Gear Sourcing – UA Forces](projects/military-procurement-ua-forces.md)  
-  *Cross-border supply chain, urgent fulfillment*
-
-- [Centralized Procurement Setup – Manufacturing](projects/centralized-procurement-erp-setup.md)  
-  *ERP standardization, supplier consolidation*
+Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, and Turkey—often under intense geopolitical constraints, shifting supply chains, and evolving market demands. 
 
 ---
 
-### 🔹 Exhibitions & B2B Trade
+## 📁 Explore Projects
 
-- [LogiMAT 2022 – Germany](projects/logimat-2022-kapelou.md)  
-  *Industrial equipment demo coordination*
+### 🏭 Industrial Automation & Production Optimization
 
-- [B2B Exhibitions (6+ Events)](projects/b2b-trade-show-organization.md)  
-  *Marketing, logistics, technical content*
-
----
-
-### 🔹 Operational Excellence
-
-- [Lean 5S Implementation – Production](projects/5s-lean-implementation-verallia.md)  
-  *Audit uplift from 62% → 87%*
-
-- [Reporting Automation – Quality Dept.](projects/erp-database-reporting-verallia.md)  
-  *Real-time dashboards, 35% faster reporting*
-
-- [Cascading Meeting System](projects/cascading-meeting-structure.md)  
-  *Communication redesign from floor to HQ*
+- [Production Speed Optimization (Verallia)](./projects/production-speed-optimization-verallia.md)
+- [Cost Optimization – HotEnd & ColdEnd](./projects/cost-optimization-hotend-coldend.md)
+- [Cost Optimization – Packaging & Maintenance](./projects/cost-optimization-packaging-maintenance-verallia.md)
+- [Warehouse Automation – International (Kapelou)](./projects/warehouse-automation-international-kapelou.md)
+- [KSIX Packing Automation](./projects/ksix-packing-automation-verallia.md)
+- [Yield Improvement – Glass Manufacturing (RCA)](./projects/yield-improvement-rca-glass-verallia.md)
 
 ---
 
-## 📫 Let’s connect
+### 🔩 CAPEX Projects & Technical Installations
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nate-dudina-ucn/) or explore the `/projects/` folder for the full list of work.
+- [KSIX Furnace Filter System (Verallia)](./projects/ksix-furnace-filter-system-verallia.md)
+- [KSIX Hot Furnace Repair](./projects/ksix-furnace-hot-repair-verallia.md)
+- [KSIX Furnace Repair Preparation](./projects/ksix-furnace-repair-preparation-verallia.md)
+- [KSIX Extension of Production Lines](./projects/ksix-extension-production-lines-verallia.md)
+- [Military Procurement – UA Forces](./projects/military-procurement-ua-forces.md)
+- [Investment Project – Protection Manufacturing](./projects/investment-project-protection-manufacturing.md)
 
 ---
-<p align="center">
-  <em>© Natalia Dudina | All project content is anonymized & NDA-compliant</em>
-</p>
+
+### 🗂️ ERP Systems & Reporting Automation
+
+- [Centralized Procurement ERP Setup](./projects/centralized-procurement-erp-setup.md)
+- [ERP Database & Reporting](./projects/erp-database-reporting-verallia.md)
+- [Project Reporting & Retrospective Automation](./projects/project-reporting-retrospective-automation.md)
+- [Quality Reporting – ERP](./projects/quality-reporting-erp-verallia.md)
+
+---
+
+### 🎯 Lean & Continuous Improvement
+
+- [5S Implementation (Verallia)](./projects/5s-lean-implementation-verallia.md)
+- [Yield Defect RCA – HotEnd & ColdEnd](./projects/yield-defect-rca-hotend-coldend.md)
+- [Cascading Meeting Structure](./projects/cascading-meeting-structure.md)
+
+---
+
+### 🌐 Business Development & Exhibitions
+
+- [B2B Trade Show Organization](./projects/b2b-trade-show-organization.md)
+- [LogiMAT 2022 (Kapelou)](./projects/logimat-2022-kapelou.md)
+
+---
+
+### 🚀 Product Launch & Segment Development
+
+- [New Production Segment – France](./projects/new-production-segment-france.md)
+- [Product Launch – Military Standard](./projects/product-launch-military-standard.md)
+
+---
+
+## 🤝 Let’s Connect
+
+> Each project `.md` file includes project goals, scope, outcomes, visuals (where applicable), and quantified results.
+
+📫 [LinkedIn](https://www.linkedin.com/in/nate-dudina-ucn/) • [GitHub](https://github.com/yourprofile)
