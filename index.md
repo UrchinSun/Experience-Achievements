@@ -2,8 +2,6 @@
 
 > A curated collection of real-world, high-impact operations, production, and strategic project cases across Europe.
 
-![Project banner](./assets/banner-header.png)
-
 ---
 
 ## 🔧 Key Domains
@@ -79,4 +77,4 @@ Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, a
 
 > Each project `.md` file includes project goals, scope, outcomes, visuals (where applicable), and quantified results.
 
-📫 [LinkedIn](https://www.linkedin.com/in/nate-dudina-ucn/) • [GitHub](https://github.com/yourprofile)
+📫 [LinkedIn](https://www.linkedin.com/in/nate-dudina-ucn/) • [GitHub](https://github.com/UrchinSun)
