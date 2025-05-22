@@ -1,26 +1,31 @@
+<img src="./banner.png" alt="Natalia Dudina Banner" style="width:100%;"/>
+
 # 👩‍💻 Natalia Dudina – Project Portfolio
 
-> A curated collection of real-world, high-impact operations, production, and strategic project cases across Europe.
+> Welcome to a curated showcase of high-impact projects in operations, industrial automation, production optimization, and strategic CAPEX execution—delivered across Europe in complex, fast-paced environments.
+
+With 5+ years leading multidisciplinary teams across critical industries—from manufacturing to defense—this portfolio captures the practical, result-driven transformation of complex systems into lean, scalable operations.
 
 ---
 
 ## 🔧 Key Domains
 
-Lean | CAPEX | ERP | Industrial Automation | Strategic Procurement | Trade Shows
+**Lean Manufacturing** · **CAPEX Projects** · **ERP Integration** · **Industrial Automation** · **Strategic Procurement** · **International Trade Shows**
 
-Each project highlights a unique challenge—solved through structured processes, creative execution, and measurable results.
+🧠 *Every project demonstrates structured process thinking, data-backed execution, and tangible, measurable outcomes.*
 
 ---
 
 ## 🌍 Locations
 
-Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, and Turkey—often under intense geopolitical constraints, shifting supply chains, and evolving market demands. 
+Projects span **Ukraine**, **Poland**, **Germany**, **Austria**, **Netherlands**, and **Turkey**—delivered amid volatile supply chains, energy shocks, and wartime adaptation challenges.
 
 ---
 
 ## 📁 Explore Projects
 
 ### 🏭 Industrial Automation & Production Optimization
+*Engineering smarter, faster, and more stable systems for international manufacturing.*
 
 - [Production Speed Optimization (Verallia)](./projects/production-speed-optimization-verallia.md)
 - [Cost Optimization – HotEnd & ColdEnd](./projects/cost-optimization-hotend-coldend.md)
@@ -32,6 +37,7 @@ Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, a
 ---
 
 ### 🔩 CAPEX Projects & Technical Installations
+*From furnace retrofits to military-grade production upgrades—delivering under strict budgets and deadlines.*
 
 - [KSIX Furnace Filter System (Verallia)](./projects/ksix-furnace-filter-system-verallia.md)
 - [KSIX Hot Furnace Repair](./projects/ksix-furnace-hot-repair-verallia.md)
@@ -43,6 +49,7 @@ Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, a
 ---
 
 ### 🗂️ ERP Systems & Reporting Automation
+*Digitalizing performance management with real-time dashboards and intelligent retrospectives.*
 
 - [Centralized Procurement ERP Setup](./projects/centralized-procurement-erp-setup.md)
 - [ERP Database & Reporting](./projects/erp-database-reporting-verallia.md)
@@ -52,6 +59,7 @@ Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, a
 ---
 
 ### 🎯 Lean & Continuous Improvement
+*Scaling operational excellence with 5S, RCA, and structured daily management.*
 
 - [5S Implementation (Verallia)](./projects/5s-lean-implementation-verallia.md)
 - [Yield Defect RCA – HotEnd & ColdEnd](./projects/yield-defect-rca-hotend-coldend.md)
@@ -60,6 +68,7 @@ Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, a
 ---
 
 ### 🌐 Business Development & Exhibitions
+*Driving B2B brand visibility and market penetration across logistics and tech industries.*
 
 - [B2B Trade Show Organization](./projects/b2b-trade-show-organization.md)
 - [LogiMAT 2022 (Kapelou)](./projects/logimat-2022-kapelou.md)
@@ -67,6 +76,7 @@ Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, a
 ---
 
 ### 🚀 Product Launch & Segment Development
+*Fast-tracking product development—from market-specific adaptations to military-standard launches.*
 
 - [New Production Segment – France](./projects/new-production-segment-france.md)
 - [Product Launch – Military Standard](./projects/product-launch-military-standard.md)
@@ -75,6 +85,6 @@ Projects were delivered across Ukraine, Poland, Germany, Austria, Netherlands, a
 
 ## 🤝 Let’s Connect
 
-> Each project `.md` file includes project goals, scope, outcomes, visuals (where applicable), and quantified results.
+📫 [LinkedIn](https://www.linkedin.com/in/nate-dudina-ucn/) · [GitHub](https://github.com/UrchinSun)
 
-📫 [LinkedIn](https://www.linkedin.com/in/nate-dudina-ucn/) • [GitHub](https://github.com/UrchinSun)
+> Each `.md` project file includes: scope, goals, metrics, implementation steps, visuals (if available), and measurable outcomes.
